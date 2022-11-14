@@ -1,1 +1,1 @@
-# team2-cordova
+# Simple Payroll Application in C#
